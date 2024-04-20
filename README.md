@@ -1,4 +1,8 @@
 # Memory-Game
+# juego de tarjetas de memoria
+esta es una version del juego memory game hecha para el curso de programacion hipermedia 
+
+
 This is a memory game, created using HTML, CSS, and JavaScript.
 Rules of playing are:- 
  1. Click on any two card and they will flip,
