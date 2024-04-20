@@ -9,11 +9,11 @@ body {
     box-sizing: border-box;
     background-color: rgb(50, 119, 248);
     display: flex;
-}
+background-image: ;
 .board{
     height: 480px;
     width: 460px;
-    background-color: aliceblue;
+    background-color: #41c845;
     margin: auto;
     display: flex;
     justify-content: center;
