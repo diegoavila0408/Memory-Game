@@ -75,8 +75,7 @@ background-image: ;
 
 .card {
     height: 100px;
-    width: 91px;
-    background-color: rgba(40, 231, 170, 0.792);
+    width: 91px;    background-color: rgb(238 50 24
     border-radius: 10px;
     margin: 0px 10px;
     position: relative;
