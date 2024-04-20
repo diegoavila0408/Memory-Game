@@ -76,7 +76,8 @@ background-image:url("https://img.canal1.com.co/wp-content/uploads/2022/10/25113
 
 .card {
     height: 100px;
-    width: 91px;    background-color: rgb(238 50 24
+    width: 91px;
+    background-color: rgb(238 50 24);
     border-radius: 10px;
     margin: 0px 10px;
     position: relative;
