@@ -123,7 +123,7 @@ background-size: cover;
 }
 
 .btn {
-    background-color: antiquewhite;
+    background-color: rgb(243, 255, 6);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -175,7 +175,7 @@ cursor: pointer;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: white;
+    background-color: rgb(246, 250, 5);
     padding: 1rem 1.5rem;
     width: 24rem;
     border-radius: 0.5rem;
