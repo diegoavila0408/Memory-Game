@@ -9,13 +9,13 @@ body {
     box-sizing: border-box;
     background-color: rgb(50, 119, 248);
     display: flex;
-background-image: url(https://rotondadeportiva.com/wp-content/uploads/2020/01/ESCUDOS-FPC-2020.jpg); 
+background-image: url(https://img.freepik.com/fotos-premium/bodegon-seleccion-colombiana-futbol_23-2149734120.jpg?size=626&ext=jpg&); 
 background-size: cover;
 }
 .board{
     height: 480px;
     width: 460px;
-    background-color: #711416;
+    background-color: #41c845;
     margin: auto;
     display: flex;
     justify-content: center;
@@ -103,7 +103,7 @@ background-size: cover;
 
 .card .front {
     color: aliceblue;
-    background-color:rgb(243, 233, 40);
+    background-color:rgba(110, 126, 42, 0.678);
     display: flex;
     justify-content: center;
     align-items: center;
