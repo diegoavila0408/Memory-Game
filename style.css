@@ -146,7 +146,7 @@ margin: 0px 10px;
 display: flex;
 justify-content: center;
 align-items: center;
-color: rgba(133, 234, 163, 0.651);
+color: rgba(244, 12, 12, 0.651);
 font-size: 1.4rem;
 font-weight: 600;
 cursor: pointer;
@@ -154,7 +154,7 @@ cursor: pointer;
 #refresh:hover, 
 #level1:hover{
     color: rgb(209, 109, 140);
-    background-color: rgba(44, 225, 111, 0.651);
+    background-color: rgba(251, 13, 13, 0.651);
 }
 
 .modal2 {
